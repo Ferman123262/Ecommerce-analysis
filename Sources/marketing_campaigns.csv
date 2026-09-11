@@ -1,0 +1,501 @@
+campaign_id,campaign_name,channel,start_date,budget,target_segment
+1,Campaign 0001,Affiliate,2024-11-25,7142.5,Silver
+2,Campaign 0002,Display,2025-08-05,21173.42,Standard
+3,Campaign 0003,Display,2024-02-09,15600.12,All
+4,Campaign 0004,Affiliate,2025-11-09,31552.05,Standard
+5,Campaign 0005,Email,2025-07-06,21923.74,Standard
+6,Campaign 0006,Social Media,2024-05-16,11545.82,Gold
+7,Campaign 0007,Email,2025-05-04,34951.2,All
+8,Campaign 0008,Email,2025-02-16,30898.48,All
+9,Campaign 0009,Affiliate,2024-10-20,53509.72,All
+10,Campaign 0010,Display,2024-12-25,65777.31,All
+11,Campaign 0011,Display,2023-01-21,41550.42,All
+12,Campaign 0012,Email,2023-11-15,12227.16,Silver
+13,Campaign 0013,Search,2023-07-04,50208.19,Platinum
+14,Campaign 0014,Email,2024-07-19,90652.11,Standard
+15,Campaign 0015,Social Media,2024-08-07,71018.35,Gold
+16,Campaign 0016,Search,2024-12-20,30615.39,All
+17,Campaign 0017,Affiliate,2025-02-04,84827.79,Standard
+18,Campaign 0018,Display,2024-07-28,60812.94,Standard
+19,Campaign 0019,Email,2025-05-22,91605.87,Standard
+20,Campaign 0020,Social Media,2025-06-28,45956.96,Silver
+21,Campaign 0021,Social Media,2025-08-13,22066.06,All
+22,Campaign 0022,Email,2024-08-16,26978.34,Gold
+23,Campaign 0023,Social Media,2025-09-03,18736.54,Silver
+24,Campaign 0024,Display,2023-02-25,61682.4,Silver
+25,Campaign 0025,Search,2023-03-12,64468.04,Standard
+26,Campaign 0026,Email,2023-01-07,77714.16,Silver
+27,Campaign 0027,Search,2023-01-28,66911.85,Standard
+28,Campaign 0028,Display,2023-03-31,1596.29,All
+29,Campaign 0029,Social Media,2023-10-07,70245.08,Platinum
+30,Campaign 0030,Search,2025-03-24,16412.69,All
+31,Campaign 0031,Display,2025-09-25,16992.05,Gold
+32,Campaign 0032,Affiliate,2023-02-14,47728.07,Gold
+33,Campaign 0033,Display,2023-03-07,32541.84,Standard
+34,Campaign 0034,Email,2024-01-07,2208.58,Standard
+35,Campaign 0035,Social Media,2025-04-30,27834.24,Gold
+36,Campaign 0036,Affiliate,2024-10-11,68298.28,All
+37,Campaign 0037,Email,2024-10-14,3707.55,Gold
+38,Campaign 0038,Search,2025-06-28,90345.92,Gold
+39,Campaign 0039,Search,2025-06-16,3615.7,Silver
+40,Campaign 0040,Social Media,2023-01-23,64922.06,Gold
+41,Campaign 0041,Email,2024-07-22,70786.28,Standard
+42,Campaign 0042,Social Media,2024-10-11,54393.61,Standard
+43,Campaign 0043,Search,2024-03-08,30529.67,All
+44,Campaign 0044,Social Media,2023-12-20,59790.96,Silver
+45,Campaign 0045,Social Media,2025-05-02,5356.37,Silver
+46,Campaign 0046,Search,2024-10-08,94674.36,Silver
+47,Campaign 0047,Search,2025-03-13,53302.52,Platinum
+48,Campaign 0048,Social Media,2024-08-30,56205.02,Gold
+49,Campaign 0049,Display,2023-06-24,54130.55,Gold
+50,Campaign 0050,Email,2023-02-17,11842.31,All
+51,Campaign 0051,Social Media,2023-04-09,69423.83,Silver
+52,Campaign 0052,Social Media,2025-10-12,76817.53,Gold
+53,Campaign 0053,Social Media,2024-05-12,35076.42,Silver
+54,Campaign 0054,Social Media,2023-05-15,22560.4,Silver
+55,Campaign 0055,Display,2024-01-02,77657.43,Gold
+56,Campaign 0056,Display,2024-10-25,44536.82,Gold
+57,Campaign 0057,Display,2023-09-09,69196.27,Standard
+58,Campaign 0058,Social Media,2024-06-03,12585.09,Standard
+59,Campaign 0059,Search,2023-10-24,42392.12,Silver
+60,Campaign 0060,Email,2024-03-15,27978.83,Silver
+61,Campaign 0061,Social Media,2023-10-23,61125.72,All
+62,Campaign 0062,Display,2025-01-24,17294.59,Standard
+63,Campaign 0063,Social Media,2024-11-15,24211.02,All
+64,Campaign 0064,Display,2024-07-12,42645.37,Standard
+65,Campaign 0065,Social Media,2024-07-14,1215.39,Silver
+66,Campaign 0066,Search,2024-01-22,70984.57,Silver
+67,Campaign 0067,Affiliate,2025-05-30,30355.42,All
+68,Campaign 0068,Social Media,2023-04-02,30257.75,All
+69,Campaign 0069,Affiliate,2023-08-22,25907.49,Silver
+70,Campaign 0070,Social Media,2023-02-01,28108.56,All
+71,Campaign 0071,Email,2023-10-07,47531.58,Standard
+72,Campaign 0072,Email,2023-10-11,50728.91,Silver
+73,Campaign 0073,Search,2024-05-27,82651.59,Silver
+74,Campaign 0074,Affiliate,2024-05-12,10259.23,Silver
+75,Campaign 0075,Social Media,2025-04-20,71314.85,Standard
+76,Campaign 0076,Affiliate,2023-02-19,42897.53,Silver
+77,Campaign 0077,Social Media,2023-02-13,7436.15,Silver
+78,Campaign 0078,Search,2023-02-20,59562.51,All
+79,Campaign 0079,Affiliate,2024-04-30,34353.72,All
+80,Campaign 0080,Affiliate,2025-03-13,16075.34,All
+81,Campaign 0081,Affiliate,2023-09-18,65035.79,Silver
+82,Campaign 0082,Affiliate,2024-03-17,14577.44,Gold
+83,Campaign 0083,Search,2024-08-01,56224.98,Standard
+84,Campaign 0084,Social Media,2023-03-19,29360.36,All
+85,Campaign 0085,Email,2024-02-05,1256.67,Gold
+86,Campaign 0086,Display,2023-05-14,21981.55,All
+87,Campaign 0087,Email,2023-05-02,27026.92,Standard
+88,Campaign 0088,Search,2024-09-10,15383.62,Standard
+89,Campaign 0089,Search,2025-11-03,23600.63,Gold
+90,Campaign 0090,Search,2025-09-04,21416.29,Gold
+91,Campaign 0091,Search,2024-11-28,84733.11,Standard
+92,Campaign 0092,Affiliate,2023-04-21,5561.31,Gold
+93,Campaign 0093,Search,2023-06-11,34313.84,Silver
+94,Campaign 0094,Search,2025-01-27,98547.24,All
+95,Campaign 0095,Email,2023-07-24,12422.59,Gold
+96,Campaign 0096,Display,2023-12-24,81896.71,All
+97,Campaign 0097,Affiliate,2023-05-22,55567.4,Gold
+98,Campaign 0098,Affiliate,2024-07-05,65727.63,Silver
+99,Campaign 0099,Affiliate,2025-04-07,71235.27,Platinum
+100,Campaign 0100,Affiliate,2023-08-21,63963.16,Silver
+101,Campaign 0101,Email,2023-03-17,91482.98,Silver
+102,Campaign 0102,Search,2023-10-29,52876.13,Standard
+103,Campaign 0103,Social Media,2025-07-11,67574.88,All
+104,Campaign 0104,Search,2024-04-26,92259.14,Silver
+105,Campaign 0105,Social Media,2024-05-02,35695.01,Standard
+106,Campaign 0106,Social Media,2023-03-12,10046.98,Standard
+107,Campaign 0107,Social Media,2025-10-11,84030.71,Standard
+108,Campaign 0108,Email,2023-02-16,26271.99,Standard
+109,Campaign 0109,Social Media,2025-06-03,90461.86,All
+110,Campaign 0110,Search,2023-08-14,35884.03,All
+111,Campaign 0111,Social Media,2023-11-21,91633.97,Standard
+112,Campaign 0112,Email,2024-02-28,12177.94,Gold
+113,Campaign 0113,Display,2023-04-28,70789.0,Silver
+114,Campaign 0114,Search,2023-02-12,35303.26,All
+115,Campaign 0115,Email,2023-02-24,85990.81,Silver
+116,Campaign 0116,Search,2025-09-08,24104.15,Platinum
+117,Campaign 0117,Affiliate,2024-05-08,13812.47,All
+118,Campaign 0118,Social Media,2023-03-14,44861.66,All
+119,Campaign 0119,Social Media,2024-05-12,25240.58,Silver
+120,Campaign 0120,Affiliate,2023-04-03,95178.15,Gold
+121,Campaign 0121,Social Media,2023-08-09,69937.14,Standard
+122,Campaign 0122,Affiliate,2023-12-26,15143.95,Gold
+123,Campaign 0123,Social Media,2023-01-30,85850.07,Silver
+124,Campaign 0124,Email,2025-06-26,62765.0,Gold
+125,Campaign 0125,Search,2024-09-10,25018.76,Gold
+126,Campaign 0126,Search,2024-08-29,27358.1,Gold
+127,Campaign 0127,Email,2023-09-06,29557.19,Silver
+128,Campaign 0128,Email,2024-02-20,70393.85,Standard
+129,Campaign 0129,Search,2023-05-19,10265.0,Silver
+130,Campaign 0130,Affiliate,2023-12-24,76463.91,All
+131,Campaign 0131,Search,2024-06-06,66135.69,Standard
+132,Campaign 0132,Search,2024-01-08,24950.79,Silver
+133,Campaign 0133,Email,2024-02-14,14422.58,Gold
+134,Campaign 0134,Search,2023-08-02,21928.29,Silver
+135,Campaign 0135,Social Media,2024-05-08,35960.64,All
+136,Campaign 0136,Social Media,2024-03-26,53155.83,Gold
+137,Campaign 0137,Email,2024-01-28,55291.67,Silver
+138,Campaign 0138,Affiliate,2023-06-01,3391.36,All
+139,Campaign 0139,Social Media,2024-05-14,1337.62,Gold
+140,Campaign 0140,Display,2025-08-31,52891.54,Gold
+141,Campaign 0141,Email,2024-06-10,68218.81,Silver
+142,Campaign 0142,Affiliate,2025-08-26,39726.01,All
+143,Campaign 0143,Search,2025-02-06,58334.77,Silver
+144,Campaign 0144,Social Media,2025-06-29,1871.52,All
+145,Campaign 0145,Email,2025-07-08,46175.09,Standard
+146,Campaign 0146,Display,2023-05-21,77066.55,Standard
+147,Campaign 0147,Affiliate,2023-04-06,86107.48,Silver
+148,Campaign 0148,Email,2023-02-20,79072.39,Gold
+149,Campaign 0149,Email,2023-09-26,85642.81,Silver
+150,Campaign 0150,Affiliate,2025-04-02,15770.08,Standard
+151,Campaign 0151,Email,2023-10-23,10441.89,All
+152,Campaign 0152,Display,2025-06-03,12173.28,Gold
+153,Campaign 0153,Affiliate,2024-05-25,69027.51,All
+154,Campaign 0154,Email,2023-02-05,97468.77,All
+155,Campaign 0155,Email,2025-02-05,35829.07,Gold
+156,Campaign 0156,Affiliate,2024-01-20,46102.98,All
+157,Campaign 0157,Social Media,2023-01-23,21947.49,All
+158,Campaign 0158,Email,2023-04-07,95633.35,All
+159,Campaign 0159,Email,2024-12-01,98735.05,Standard
+160,Campaign 0160,Display,2024-02-29,80738.75,Silver
+161,Campaign 0161,Search,2023-02-20,30833.5,Standard
+162,Campaign 0162,Search,2025-09-06,18816.48,Silver
+163,Campaign 0163,Affiliate,2025-01-12,8397.84,Gold
+164,Campaign 0164,Social Media,2023-10-06,60861.31,Gold
+165,Campaign 0165,Display,2024-08-30,44016.64,Silver
+166,Campaign 0166,Search,2023-07-17,59053.32,All
+167,Campaign 0167,Social Media,2024-05-19,56436.91,Gold
+168,Campaign 0168,Email,2024-01-20,44900.4,Silver
+169,Campaign 0169,Email,2024-06-29,17321.88,All
+170,Campaign 0170,Affiliate,2025-02-25,46074.95,Standard
+171,Campaign 0171,Display,2025-06-18,16588.96,Standard
+172,Campaign 0172,Search,2023-09-13,19463.27,All
+173,Campaign 0173,Email,2024-04-27,71091.37,Silver
+174,Campaign 0174,Affiliate,2024-07-02,21137.91,Gold
+175,Campaign 0175,Email,2025-08-12,1005.91,Standard
+176,Campaign 0176,Display,2025-05-22,90504.71,Standard
+177,Campaign 0177,Email,2023-04-27,76730.95,Silver
+178,Campaign 0178,Display,2025-07-07,2204.7,All
+179,Campaign 0179,Affiliate,2024-06-22,70125.81,Standard
+180,Campaign 0180,Social Media,2023-12-10,47762.1,Silver
+181,Campaign 0181,Social Media,2025-06-05,89071.55,Silver
+182,Campaign 0182,Social Media,2023-08-30,85953.36,All
+183,Campaign 0183,Email,2023-05-31,66844.75,Gold
+184,Campaign 0184,Social Media,2024-10-18,36321.47,Silver
+185,Campaign 0185,Social Media,2023-06-21,25818.88,Gold
+186,Campaign 0186,Affiliate,2025-11-12,70202.05,Standard
+187,Campaign 0187,Display,2023-03-18,82167.86,All
+188,Campaign 0188,Social Media,2023-02-16,98399.42,All
+189,Campaign 0189,Display,2024-05-13,54375.66,Standard
+190,Campaign 0190,Social Media,2025-08-25,11776.19,Silver
+191,Campaign 0191,Social Media,2024-02-04,21381.43,All
+192,Campaign 0192,Social Media,2023-02-26,69434.0,Standard
+193,Campaign 0193,Email,2024-05-13,95141.58,All
+194,Campaign 0194,Search,2024-10-25,81008.37,Gold
+195,Campaign 0195,Social Media,2023-07-20,98260.87,Standard
+196,Campaign 0196,Display,2024-01-10,35246.95,Standard
+197,Campaign 0197,Display,2024-05-27,82269.88,Silver
+198,Campaign 0198,Affiliate,2023-08-30,53375.77,All
+199,Campaign 0199,Social Media,2025-03-21,13860.85,Silver
+200,Campaign 0200,Social Media,2025-07-05,7657.4,Standard
+201,Campaign 0201,Email,2024-07-20,53980.97,Platinum
+202,Campaign 0202,Search,2024-05-11,35143.84,Silver
+203,Campaign 0203,Social Media,2024-10-09,40294.27,Gold
+204,Campaign 0204,Social Media,2023-02-10,40640.06,All
+205,Campaign 0205,Affiliate,2024-05-03,14913.74,Platinum
+206,Campaign 0206,Email,2024-10-19,19826.4,All
+207,Campaign 0207,Search,2024-05-16,30483.12,Gold
+208,Campaign 0208,Affiliate,2025-03-09,90250.93,All
+209,Campaign 0209,Display,2025-03-07,86967.96,Standard
+210,Campaign 0210,Social Media,2023-07-26,41014.14,All
+211,Campaign 0211,Search,2023-05-29,25940.2,All
+212,Campaign 0212,Search,2023-04-18,89994.96,Gold
+213,Campaign 0213,Search,2023-10-17,52673.55,Silver
+214,Campaign 0214,Display,2024-12-30,43457.88,Silver
+215,Campaign 0215,Social Media,2024-11-09,62467.34,All
+216,Campaign 0216,Social Media,2025-07-27,99864.29,Silver
+217,Campaign 0217,Search,2024-10-15,79193.2,Silver
+218,Campaign 0218,Display,2024-12-03,48016.36,Gold
+219,Campaign 0219,Affiliate,2024-12-22,27911.85,Standard
+220,Campaign 0220,Affiliate,2025-05-20,92313.45,All
+221,Campaign 0221,Search,2025-05-25,22870.98,Silver
+222,Campaign 0222,Display,2025-01-09,23742.62,Gold
+223,Campaign 0223,Display,2024-06-19,28623.65,Silver
+224,Campaign 0224,Email,2024-05-01,36318.46,All
+225,Campaign 0225,Search,2025-07-25,2990.88,Gold
+226,Campaign 0226,Search,2023-02-23,44968.37,All
+227,Campaign 0227,Email,2023-12-12,89622.15,All
+228,Campaign 0228,Email,2025-04-07,9109.26,All
+229,Campaign 0229,Search,2025-10-01,56619.32,Silver
+230,Campaign 0230,Social Media,2024-09-09,94921.61,Standard
+231,Campaign 0231,Social Media,2025-04-02,14268.28,Standard
+232,Campaign 0232,Search,2025-06-04,98572.66,Standard
+233,Campaign 0233,Affiliate,2023-06-30,69254.97,Silver
+234,Campaign 0234,Display,2023-09-08,1748.06,Standard
+235,Campaign 0235,Email,2024-01-03,84223.2,All
+236,Campaign 0236,Email,2023-04-05,79011.72,Silver
+237,Campaign 0237,Social Media,2023-12-06,57071.5,Gold
+238,Campaign 0238,Social Media,2024-11-12,59970.36,All
+239,Campaign 0239,Search,2023-03-29,78178.86,All
+240,Campaign 0240,Social Media,2024-05-13,24007.99,Standard
+241,Campaign 0241,Search,2024-06-04,48928.28,Standard
+242,Campaign 0242,Email,2025-07-31,34280.45,Silver
+243,Campaign 0243,Affiliate,2025-04-09,82003.24,Silver
+244,Campaign 0244,Email,2025-07-15,19967.1,Silver
+245,Campaign 0245,Social Media,2024-09-10,92027.95,Silver
+246,Campaign 0246,Affiliate,2024-03-07,42695.07,All
+247,Campaign 0247,Display,2025-09-23,42384.75,All
+248,Campaign 0248,Display,2023-12-10,34871.07,Standard
+249,Campaign 0249,Search,2024-02-28,59380.8,Silver
+250,Campaign 0250,Social Media,2023-11-30,49347.86,Silver
+251,Campaign 0251,Display,2024-04-15,19923.91,All
+252,Campaign 0252,Search,2024-10-19,47022.8,Gold
+253,Campaign 0253,Email,2024-02-21,73100.11,Silver
+254,Campaign 0254,Display,2023-03-22,77247.85,All
+255,Campaign 0255,Email,2023-01-11,49645.75,All
+256,Campaign 0256,Email,2023-03-06,18334.46,Gold
+257,Campaign 0257,Email,2025-01-27,41854.33,Silver
+258,Campaign 0258,Search,2025-10-07,22877.03,All
+259,Campaign 0259,Email,2025-05-28,13241.68,Standard
+260,Campaign 0260,Affiliate,2023-08-17,86688.12,Standard
+261,Campaign 0261,Email,2024-03-21,70088.99,All
+262,Campaign 0262,Search,2023-02-09,73550.55,Platinum
+263,Campaign 0263,Social Media,2024-08-20,96929.04,Standard
+264,Campaign 0264,Search,2025-02-28,24869.98,Standard
+265,Campaign 0265,Display,2024-02-25,84780.39,Standard
+266,Campaign 0266,Affiliate,2023-09-26,64728.38,Gold
+267,Campaign 0267,Search,2024-09-05,48453.84,Standard
+268,Campaign 0268,Email,2025-07-15,42510.07,Gold
+269,Campaign 0269,Display,2024-07-05,32505.22,Silver
+270,Campaign 0270,Search,2025-02-22,98154.32,Standard
+271,Campaign 0271,Display,2024-05-07,13560.15,Platinum
+272,Campaign 0272,Social Media,2024-02-03,39985.01,Standard
+273,Campaign 0273,Email,2023-09-09,71525.18,Standard
+274,Campaign 0274,Affiliate,2024-01-21,76328.64,Silver
+275,Campaign 0275,Search,2025-04-05,27910.48,Silver
+276,Campaign 0276,Display,2024-09-09,85889.3,Standard
+277,Campaign 0277,Email,2023-05-04,94655.73,Gold
+278,Campaign 0278,Social Media,2025-01-09,57333.54,Silver
+279,Campaign 0279,Email,2024-07-30,50561.03,Standard
+280,Campaign 0280,Social Media,2023-12-09,6249.29,All
+281,Campaign 0281,Email,2025-11-01,78112.98,All
+282,Campaign 0282,Email,2023-07-13,78876.5,Platinum
+283,Campaign 0283,Social Media,2023-01-04,64458.54,Silver
+284,Campaign 0284,Email,2023-01-06,95784.77,Gold
+285,Campaign 0285,Email,2024-06-05,87494.89,Standard
+286,Campaign 0286,Email,2023-12-11,66546.1,All
+287,Campaign 0287,Email,2025-01-01,64701.86,All
+288,Campaign 0288,Search,2023-08-26,77660.98,Silver
+289,Campaign 0289,Search,2023-07-03,27396.85,Standard
+290,Campaign 0290,Email,2025-04-07,79940.06,Standard
+291,Campaign 0291,Search,2024-10-15,67214.48,Gold
+292,Campaign 0292,Email,2025-09-25,2848.99,Gold
+293,Campaign 0293,Affiliate,2023-09-26,99120.17,All
+294,Campaign 0294,Email,2024-05-08,78254.97,All
+295,Campaign 0295,Display,2023-09-23,7553.47,Silver
+296,Campaign 0296,Social Media,2024-02-08,39287.19,Silver
+297,Campaign 0297,Email,2024-12-02,39461.35,All
+298,Campaign 0298,Social Media,2024-11-12,65669.15,Standard
+299,Campaign 0299,Affiliate,2023-01-26,71393.24,All
+300,Campaign 0300,Search,2024-03-03,14037.48,All
+301,Campaign 0301,Social Media,2025-05-16,14270.86,Platinum
+302,Campaign 0302,Social Media,2023-12-06,89043.83,Standard
+303,Campaign 0303,Email,2024-05-30,36451.0,Standard
+304,Campaign 0304,Email,2024-02-09,87559.0,All
+305,Campaign 0305,Search,2023-03-11,75622.52,All
+306,Campaign 0306,Social Media,2023-08-19,14187.15,All
+307,Campaign 0307,Affiliate,2025-03-22,97176.69,Standard
+308,Campaign 0308,Display,2024-08-26,93675.04,Standard
+309,Campaign 0309,Email,2024-05-29,86306.26,Gold
+310,Campaign 0310,Display,2024-10-06,57739.1,Standard
+311,Campaign 0311,Social Media,2023-07-03,1549.9,Gold
+312,Campaign 0312,Social Media,2024-05-31,66746.47,Silver
+313,Campaign 0313,Social Media,2023-08-10,36915.44,Standard
+314,Campaign 0314,Search,2023-04-24,5097.73,All
+315,Campaign 0315,Affiliate,2024-07-07,75505.34,Standard
+316,Campaign 0316,Email,2025-09-02,23576.65,All
+317,Campaign 0317,Social Media,2024-01-21,57334.67,Silver
+318,Campaign 0318,Social Media,2025-05-10,92946.92,Standard
+319,Campaign 0319,Search,2023-08-25,35783.86,Gold
+320,Campaign 0320,Social Media,2024-09-06,30199.24,Gold
+321,Campaign 0321,Email,2023-08-04,39506.68,All
+322,Campaign 0322,Search,2024-08-10,29406.56,Gold
+323,Campaign 0323,Social Media,2024-06-26,89427.13,Gold
+324,Campaign 0324,Affiliate,2024-02-29,36289.91,Standard
+325,Campaign 0325,Affiliate,2024-07-02,37343.62,Gold
+326,Campaign 0326,Email,2025-08-02,31012.29,Gold
+327,Campaign 0327,Display,2025-01-04,61576.38,Silver
+328,Campaign 0328,Search,2025-10-24,47980.11,Silver
+329,Campaign 0329,Affiliate,2023-05-06,68907.89,Standard
+330,Campaign 0330,Affiliate,2023-07-24,92205.82,Standard
+331,Campaign 0331,Affiliate,2024-12-22,49075.91,Silver
+332,Campaign 0332,Display,2025-07-07,46442.67,Gold
+333,Campaign 0333,Social Media,2024-10-06,71945.53,All
+334,Campaign 0334,Email,2023-12-06,7185.53,All
+335,Campaign 0335,Social Media,2024-09-21,95527.33,All
+336,Campaign 0336,Search,2025-07-28,54987.91,Standard
+337,Campaign 0337,Affiliate,2025-04-15,75438.95,Standard
+338,Campaign 0338,Search,2023-05-19,45231.5,Silver
+339,Campaign 0339,Search,2023-03-08,31013.08,All
+340,Campaign 0340,Email,2025-07-19,91275.34,Gold
+341,Campaign 0341,Social Media,2025-05-18,81634.57,Standard
+342,Campaign 0342,Display,2023-12-25,73843.96,All
+343,Campaign 0343,Email,2025-01-11,74651.42,Silver
+344,Campaign 0344,Display,2025-06-03,93117.48,Gold
+345,Campaign 0345,Search,2023-08-07,75561.13,Gold
+346,Campaign 0346,Affiliate,2024-01-01,81441.49,All
+347,Campaign 0347,Email,2023-01-05,72060.85,Silver
+348,Campaign 0348,Social Media,2025-01-29,40656.62,Platinum
+349,Campaign 0349,Email,2024-10-22,42175.77,Gold
+350,Campaign 0350,Social Media,2025-09-25,31542.7,All
+351,Campaign 0351,Display,2023-08-30,35830.52,Silver
+352,Campaign 0352,Display,2025-07-21,10973.83,Gold
+353,Campaign 0353,Display,2024-12-19,8429.76,Gold
+354,Campaign 0354,Display,2025-05-23,3239.91,Silver
+355,Campaign 0355,Email,2024-03-05,20713.62,Silver
+356,Campaign 0356,Email,2025-02-17,19537.21,Gold
+357,Campaign 0357,Affiliate,2024-08-13,28141.64,All
+358,Campaign 0358,Search,2023-10-12,69959.7,Silver
+359,Campaign 0359,Affiliate,2023-01-15,14145.04,All
+360,Campaign 0360,Email,2023-02-19,94060.21,Silver
+361,Campaign 0361,Search,2025-04-04,89781.7,Silver
+362,Campaign 0362,Display,2024-03-19,45341.52,All
+363,Campaign 0363,Display,2024-08-08,16285.96,Gold
+364,Campaign 0364,Display,2025-07-25,75713.62,All
+365,Campaign 0365,Search,2025-06-14,27040.79,Standard
+366,Campaign 0366,Display,2024-02-29,79440.41,Standard
+367,Campaign 0367,Email,2024-02-24,26028.19,All
+368,Campaign 0368,Social Media,2025-07-03,37922.99,Gold
+369,Campaign 0369,Search,2025-10-19,49672.36,All
+370,Campaign 0370,Email,2024-12-25,12650.96,Gold
+371,Campaign 0371,Affiliate,2025-08-13,83783.22,All
+372,Campaign 0372,Social Media,2024-08-27,39773.44,Standard
+373,Campaign 0373,Display,2025-09-07,67528.6,Gold
+374,Campaign 0374,Affiliate,2024-10-02,74987.9,All
+375,Campaign 0375,Search,2023-01-01,6803.79,All
+376,Campaign 0376,Display,2023-07-11,82485.56,Gold
+377,Campaign 0377,Search,2023-11-15,28238.39,Standard
+378,Campaign 0378,Affiliate,2025-01-13,89899.15,Platinum
+379,Campaign 0379,Email,2025-07-19,11023.22,Standard
+380,Campaign 0380,Email,2023-02-13,73684.26,Silver
+381,Campaign 0381,Email,2024-11-09,8864.53,Gold
+382,Campaign 0382,Social Media,2024-11-18,98602.07,All
+383,Campaign 0383,Affiliate,2023-08-26,26309.35,Silver
+384,Campaign 0384,Display,2025-05-01,98557.24,Standard
+385,Campaign 0385,Social Media,2023-10-02,47436.3,Gold
+386,Campaign 0386,Email,2024-07-29,58678.44,Gold
+387,Campaign 0387,Display,2024-06-30,57722.82,All
+388,Campaign 0388,Email,2023-10-13,51848.57,All
+389,Campaign 0389,Search,2025-06-06,37073.7,All
+390,Campaign 0390,Search,2025-08-22,92733.67,Silver
+391,Campaign 0391,Email,2024-12-24,14318.91,Standard
+392,Campaign 0392,Display,2025-03-25,25175.39,Standard
+393,Campaign 0393,Display,2024-03-17,51739.73,Platinum
+394,Campaign 0394,Search,2025-05-19,28749.4,Standard
+395,Campaign 0395,Email,2023-08-12,14530.51,Standard
+396,Campaign 0396,Search,2024-04-09,24975.0,Silver
+397,Campaign 0397,Search,2023-09-09,15886.61,All
+398,Campaign 0398,Search,2025-03-24,60401.96,All
+399,Campaign 0399,Social Media,2025-03-05,19480.88,Standard
+400,Campaign 0400,Social Media,2023-09-05,35385.96,Gold
+401,Campaign 0401,Search,2024-05-18,72925.5,Silver
+402,Campaign 0402,Search,2023-12-22,26390.88,All
+403,Campaign 0403,Affiliate,2025-09-18,62079.55,Standard
+404,Campaign 0404,Search,2025-05-10,43635.42,All
+405,Campaign 0405,Affiliate,2023-05-31,18852.19,Standard
+406,Campaign 0406,Display,2023-03-14,98678.24,Silver
+407,Campaign 0407,Affiliate,2025-05-18,70849.52,Standard
+408,Campaign 0408,Social Media,2023-05-18,34120.21,Gold
+409,Campaign 0409,Affiliate,2025-03-21,49456.26,Gold
+410,Campaign 0410,Display,2024-11-05,78179.2,Standard
+411,Campaign 0411,Affiliate,2025-06-14,96102.15,Silver
+412,Campaign 0412,Affiliate,2024-04-27,53370.16,Gold
+413,Campaign 0413,Search,2025-02-23,8823.49,All
+414,Campaign 0414,Search,2024-01-15,70363.01,Standard
+415,Campaign 0415,Email,2023-03-05,51046.56,Gold
+416,Campaign 0416,Search,2023-04-16,46646.24,Gold
+417,Campaign 0417,Affiliate,2023-09-18,80202.43,Gold
+418,Campaign 0418,Email,2025-03-23,26818.19,Gold
+419,Campaign 0419,Display,2025-06-15,34943.34,All
+420,Campaign 0420,Social Media,2023-06-23,34905.2,Standard
+421,Campaign 0421,Email,2024-01-07,37361.23,Platinum
+422,Campaign 0422,Display,2024-09-04,94379.84,Standard
+423,Campaign 0423,Social Media,2025-04-23,65636.89,Standard
+424,Campaign 0424,Display,2024-11-23,72488.68,All
+425,Campaign 0425,Email,2025-11-09,75366.2,Gold
+426,Campaign 0426,Affiliate,2023-07-20,21830.36,Standard
+427,Campaign 0427,Display,2023-01-12,30840.43,Standard
+428,Campaign 0428,Email,2023-12-14,48381.66,Gold
+429,Campaign 0429,Email,2023-09-06,91764.94,Gold
+430,Campaign 0430,Social Media,2023-09-11,12660.69,All
+431,Campaign 0431,Social Media,2024-12-30,81616.36,Silver
+432,Campaign 0432,Email,2024-12-30,61957.28,All
+433,Campaign 0433,Search,2024-08-28,32590.79,Silver
+434,Campaign 0434,Email,2023-02-22,90604.74,Standard
+435,Campaign 0435,Social Media,2024-08-19,82141.97,Standard
+436,Campaign 0436,Email,2023-11-20,68882.32,Standard
+437,Campaign 0437,Search,2024-02-29,4784.18,Gold
+438,Campaign 0438,Display,2025-07-12,69063.43,Standard
+439,Campaign 0439,Search,2025-08-29,42627.99,Platinum
+440,Campaign 0440,Social Media,2025-09-24,74545.57,Silver
+441,Campaign 0441,Affiliate,2023-08-20,6908.35,Silver
+442,Campaign 0442,Social Media,2023-07-12,57601.28,Silver
+443,Campaign 0443,Affiliate,2024-06-04,53060.61,Standard
+444,Campaign 0444,Social Media,2024-07-15,86074.2,Standard
+445,Campaign 0445,Search,2023-07-09,94415.71,Standard
+446,Campaign 0446,Email,2025-02-15,54585.6,Standard
+447,Campaign 0447,Search,2025-10-26,89675.13,All
+448,Campaign 0448,Email,2025-01-24,17567.29,Gold
+449,Campaign 0449,Affiliate,2023-06-21,38848.5,Silver
+450,Campaign 0450,Display,2023-02-14,35877.91,Silver
+451,Campaign 0451,Email,2023-03-23,43714.76,All
+452,Campaign 0452,Email,2023-05-20,35203.37,Standard
+453,Campaign 0453,Affiliate,2024-02-15,93250.95,Gold
+454,Campaign 0454,Affiliate,2024-12-18,16257.92,Silver
+455,Campaign 0455,Email,2024-03-09,39290.21,Platinum
+456,Campaign 0456,Social Media,2024-11-18,91639.63,Standard
+457,Campaign 0457,Affiliate,2025-05-13,82926.81,Gold
+458,Campaign 0458,Search,2025-08-05,51799.46,Standard
+459,Campaign 0459,Affiliate,2024-03-06,93413.45,All
+460,Campaign 0460,Display,2025-06-13,21780.94,All
+461,Campaign 0461,Email,2025-06-04,62806.81,Standard
+462,Campaign 0462,Search,2024-02-22,26913.83,Gold
+463,Campaign 0463,Email,2023-12-19,79440.06,Silver
+464,Campaign 0464,Email,2024-12-11,41231.52,Standard
+465,Campaign 0465,Email,2024-01-11,19338.35,Silver
+466,Campaign 0466,Search,2025-02-12,72705.3,All
+467,Campaign 0467,Affiliate,2024-06-04,50560.81,Gold
+468,Campaign 0468,Email,2023-10-03,55452.67,Platinum
+469,Campaign 0469,Social Media,2024-08-09,86881.18,Gold
+470,Campaign 0470,Social Media,2024-09-04,30124.83,All
+471,Campaign 0471,Email,2024-08-21,63697.87,Standard
+472,Campaign 0472,Email,2024-12-15,42408.79,Standard
+473,Campaign 0473,Display,2023-10-17,99498.05,Gold
+474,Campaign 0474,Social Media,2024-10-02,30790.27,All
+475,Campaign 0475,Display,2023-09-08,49927.7,Silver
+476,Campaign 0476,Search,2023-06-23,88450.12,All
+477,Campaign 0477,Affiliate,2024-12-15,66790.01,Standard
+478,Campaign 0478,Email,2023-10-25,70716.32,Standard
+479,Campaign 0479,Email,2024-11-14,82092.19,All
+480,Campaign 0480,Social Media,2023-07-08,42588.93,Silver
+481,Campaign 0481,Display,2024-12-15,31656.48,Gold
+482,Campaign 0482,Social Media,2023-03-01,15252.22,Standard
+483,Campaign 0483,Social Media,2024-10-31,32964.52,Standard
+484,Campaign 0484,Display,2025-06-28,92230.27,Platinum
+485,Campaign 0485,Display,2023-11-04,99979.23,All
+486,Campaign 0486,Affiliate,2023-12-14,37236.79,All
+487,Campaign 0487,Search,2025-04-10,59206.84,Platinum
+488,Campaign 0488,Affiliate,2024-01-02,89959.37,Gold
+489,Campaign 0489,Social Media,2024-10-15,21412.68,Standard
+490,Campaign 0490,Display,2024-02-01,5347.18,All
+491,Campaign 0491,Email,2024-08-12,60751.84,All
+492,Campaign 0492,Affiliate,2024-07-12,96693.35,Gold
+493,Campaign 0493,Search,2025-05-17,34703.66,All
+494,Campaign 0494,Social Media,2024-06-23,11890.76,Standard
+495,Campaign 0495,Social Media,2023-03-15,98874.71,Gold
+496,Campaign 0496,Search,2025-07-09,63077.53,Silver
+497,Campaign 0497,Display,2024-05-06,14524.01,All
+498,Campaign 0498,Social Media,2024-10-07,19942.72,All
+499,Campaign 0499,Search,2023-07-12,16893.65,Silver
+500,Campaign 0500,Social Media,2024-06-14,5838.1,Standard
