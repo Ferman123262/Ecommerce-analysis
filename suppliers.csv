@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,country,supplier_rating,active_flag
+1,Supplier 0001,United Kingdom,4.18,N
+2,Supplier 0002,Kazakhstan,3.5,Y
+3,Supplier 0003,Spain,4.27,Y
+4,Supplier 0004,France,4.37,Y
+5,Supplier 0005,Turkey,4.35,Y
+6,Supplier 0006,Turkey,4.59,Y
+7,Supplier 0007,Azerbaijan,4.48,Y
+8,Supplier 0008,UAE,4.31,Y
+9,Supplier 0009,France,4.07,Y
+10,Supplier 0010,Spain,3.35,Y
+11,Supplier 0011,Azerbaijan,4.29,Y
+12,Supplier 0012,Kazakhstan,4.19,Y
+13,Supplier 0013,UAE,4.22,Y
+14,Supplier 0014,Germany,3.53,Y
+15,Supplier 0015,Turkey,3.61,Y
+16,Supplier 0016,Turkey,4.57,Y
+17,Supplier 0017,United Kingdom,4.08,Y
+18,Supplier 0018,United States,4.41,Y
+19,Supplier 0019,United States,4.11,Y
+20,Supplier 0020,Germany,4.11,Y
+21,Supplier 0021,Italy,4.52,Y
+22,Supplier 0022,Turkey,3.87,Y
+23,Supplier 0023,Germany,4.14,Y
+24,Supplier 0024,United Kingdom,3.89,Y
+25,Supplier 0025,United States,3.9,Y
+26,Supplier 0026,Poland,3.96,Y
+27,Supplier 0027,Turkey,4.2,Y
+28,Supplier 0028,United States,3.88,Y
+29,Supplier 0029,France,4.67,N
+30,Supplier 0030,Azerbaijan,3.7,Y
+31,Supplier 0031,France,4.02,Y
+32,Supplier 0032,Turkey,3.9,Y
+33,Supplier 0033,Azerbaijan,4.75,Y
+34,Supplier 0034,Kazakhstan,4.19,Y
+35,Supplier 0035,Kazakhstan,4.56,Y
+36,Supplier 0036,UAE,3.43,Y
+37,Supplier 0037,United Kingdom,4.22,Y
+38,Supplier 0038,Turkey,4.5,Y
+39,Supplier 0039,Spain,4.14,Y
+40,Supplier 0040,United States,4.58,Y
+41,Supplier 0041,Turkey,3.87,Y
+42,Supplier 0042,United States,4.73,Y
+43,Supplier 0043,Azerbaijan,5.0,Y
+44,Supplier 0044,Georgia,3.94,Y
+45,Supplier 0045,Germany,3.9,Y
+46,Supplier 0046,Italy,4.75,Y
+47,Supplier 0047,United Kingdom,4.81,Y
+48,Supplier 0048,United States,3.86,Y
+49,Supplier 0049,France,3.91,Y
+50,Supplier 0050,Turkey,3.97,Y
+51,Supplier 0051,Kazakhstan,3.49,Y
+52,Supplier 0052,Poland,3.69,Y
+53,Supplier 0053,Kazakhstan,3.65,Y
+54,Supplier 0054,Georgia,3.75,Y
+55,Supplier 0055,France,4.08,Y
+56,Supplier 0056,Kazakhstan,4.21,Y
+57,Supplier 0057,Turkey,4.8,Y
+58,Supplier 0058,Turkey,3.65,Y
+59,Supplier 0059,Azerbaijan,4.54,Y
+60,Supplier 0060,United Kingdom,4.0,Y
+61,Supplier 0061,United Kingdom,4.08,Y
+62,Supplier 0062,Germany,4.4,Y
+63,Supplier 0063,UAE,3.59,Y
+64,Supplier 0064,United Kingdom,4.27,Y
+65,Supplier 0065,Germany,4.17,Y
+66,Supplier 0066,France,4.32,Y
+67,Supplier 0067,Turkey,4.23,Y
+68,Supplier 0068,UAE,5.0,Y
+69,Supplier 0069,Azerbaijan,3.81,Y
+70,Supplier 0070,Kazakhstan,3.86,Y
+71,Supplier 0071,Poland,3.82,Y
+72,Supplier 0072,Turkey,3.85,Y
+73,Supplier 0073,Azerbaijan,3.81,Y
+74,Supplier 0074,UAE,4.64,Y
+75,Supplier 0075,Spain,4.74,Y
+76,Supplier 0076,Spain,3.84,Y
+77,Supplier 0077,Poland,3.73,Y
+78,Supplier 0078,Azerbaijan,4.31,Y
+79,Supplier 0079,United Kingdom,3.85,Y
+80,Supplier 0080,Turkey,4.38,Y
+81,Supplier 0081,UAE,4.19,Y
+82,Supplier 0082,Italy,3.42,Y
+83,Supplier 0083,United Kingdom,4.8,Y
+84,Supplier 0084,Azerbaijan,4.91,Y
+85,Supplier 0085,United Kingdom,3.82,Y
+86,Supplier 0086,United Kingdom,3.93,Y
+87,Supplier 0087,Spain,4.23,Y
+88,Supplier 0088,Italy,4.25,Y
+89,Supplier 0089,Georgia,4.4,Y
+90,Supplier 0090,United States,5.0,Y
+91,Supplier 0091,Turkey,4.02,Y
+92,Supplier 0092,Spain,3.74,Y
+93,Supplier 0093,Poland,3.48,Y
+94,Supplier 0094,France,3.77,Y
+95,Supplier 0095,Poland,4.09,Y
+96,Supplier 0096,United States,4.91,Y
+97,Supplier 0097,United States,3.87,Y
+98,Supplier 0098,United States,4.2,Y
+99,Supplier 0099,Azerbaijan,4.09,Y
+100,Supplier 0100,Turkey,4.63,Y
+101,Supplier 0101,Azerbaijan,5.0,Y
+102,Supplier 0102,Italy,3.86,Y
+103,Supplier 0103,United Kingdom,3.88,Y
+104,Supplier 0104,United States,4.57,Y
+105,Supplier 0105,Georgia,4.41,Y
+106,Supplier 0106,Germany,4.93,Y
+107,Supplier 0107,United States,4.36,Y
+108,Supplier 0108,Poland,3.94,Y
+109,Supplier 0109,Germany,4.37,Y
+110,Supplier 0110,Azerbaijan,4.6,Y
+111,Supplier 0111,Germany,4.47,Y
+112,Supplier 0112,Turkey,4.33,Y
+113,Supplier 0113,Kazakhstan,4.58,Y
+114,Supplier 0114,UAE,4.63,Y
+115,Supplier 0115,Italy,4.72,Y
+116,Supplier 0116,Georgia,4.39,Y
+117,Supplier 0117,UAE,4.02,Y
+118,Supplier 0118,Turkey,4.17,Y
+119,Supplier 0119,Georgia,4.64,Y
+120,Supplier 0120,United States,3.73,Y
+121,Supplier 0121,UAE,4.27,Y
+122,Supplier 0122,Georgia,3.92,Y
+123,Supplier 0123,United Kingdom,4.11,N
+124,Supplier 0124,Turkey,4.68,Y
+125,Supplier 0125,Germany,4.19,Y
+126,Supplier 0126,United States,4.12,Y
+127,Supplier 0127,UAE,3.49,Y
+128,Supplier 0128,UAE,4.44,Y
+129,Supplier 0129,Azerbaijan,4.39,Y
+130,Supplier 0130,United States,5.0,Y
+131,Supplier 0131,United States,3.96,Y
+132,Supplier 0132,Germany,4.2,Y
+133,Supplier 0133,Turkey,4.21,Y
+134,Supplier 0134,United Kingdom,4.81,Y
+135,Supplier 0135,Kazakhstan,4.06,Y
+136,Supplier 0136,United Kingdom,4.23,Y
+137,Supplier 0137,United States,4.37,Y
+138,Supplier 0138,Spain,4.18,Y
+139,Supplier 0139,United Kingdom,3.9,Y
+140,Supplier 0140,Kazakhstan,4.19,Y
+141,Supplier 0141,Kazakhstan,4.58,Y
+142,Supplier 0142,Germany,3.64,Y
+143,Supplier 0143,United States,4.16,Y
+144,Supplier 0144,United Kingdom,3.78,Y
+145,Supplier 0145,Germany,4.64,Y
+146,Supplier 0146,Azerbaijan,3.41,Y
+147,Supplier 0147,France,3.85,N
+148,Supplier 0148,United States,4.27,Y
+149,Supplier 0149,Azerbaijan,4.8,Y
+150,Supplier 0150,Germany,4.07,Y
+151,Supplier 0151,Georgia,3.85,Y
+152,Supplier 0152,Germany,4.95,Y
+153,Supplier 0153,Turkey,3.45,Y
+154,Supplier 0154,United States,3.11,Y
+155,Supplier 0155,Kazakhstan,4.3,Y
+156,Supplier 0156,Germany,3.87,Y
+157,Supplier 0157,Italy,3.64,Y
+158,Supplier 0158,Poland,4.42,Y
+159,Supplier 0159,Germany,4.21,Y
+160,Supplier 0160,Spain,3.85,Y
+161,Supplier 0161,United Kingdom,3.52,Y
+162,Supplier 0162,Italy,4.49,Y
+163,Supplier 0163,Italy,4.39,Y
+164,Supplier 0164,United States,4.06,Y
+165,Supplier 0165,Turkey,4.93,Y
+166,Supplier 0166,UAE,3.62,Y
+167,Supplier 0167,United Kingdom,3.41,Y
+168,Supplier 0168,Turkey,3.79,Y
+169,Supplier 0169,Azerbaijan,4.08,Y
+170,Supplier 0170,France,4.21,Y
+171,Supplier 0171,Italy,3.99,Y
+172,Supplier 0172,Azerbaijan,4.26,Y
+173,Supplier 0173,United States,3.54,Y
+174,Supplier 0174,Germany,4.75,Y
+175,Supplier 0175,Italy,4.06,N
+176,Supplier 0176,Turkey,4.6,Y
+177,Supplier 0177,Spain,4.25,Y
+178,Supplier 0178,United Kingdom,4.31,Y
+179,Supplier 0179,Kazakhstan,4.36,Y
+180,Supplier 0180,Turkey,4.3,Y
+181,Supplier 0181,United Kingdom,4.39,Y
+182,Supplier 0182,Turkey,4.7,Y
+183,Supplier 0183,Kazakhstan,4.19,Y
+184,Supplier 0184,Georgia,4.42,Y
+185,Supplier 0185,Germany,4.06,Y
+186,Supplier 0186,Italy,4.75,Y
+187,Supplier 0187,UAE,3.8,Y
+188,Supplier 0188,France,4.91,Y
+189,Supplier 0189,United States,4.08,Y
+190,Supplier 0190,Germany,3.46,Y
+191,Supplier 0191,Turkey,4.16,Y
+192,Supplier 0192,Georgia,3.79,Y
+193,Supplier 0193,Georgia,4.48,Y
+194,Supplier 0194,Italy,3.81,Y
+195,Supplier 0195,United Kingdom,3.9,Y
+196,Supplier 0196,United Kingdom,3.25,Y
+197,Supplier 0197,Spain,3.9,Y
+198,Supplier 0198,Georgia,3.01,Y
+199,Supplier 0199,Georgia,3.39,Y
+200,Supplier 0200,Poland,4.44,N
+201,Supplier 0201,Italy,4.45,Y
+202,Supplier 0202,Turkey,4.29,Y
+203,Supplier 0203,Turkey,3.66,Y
+204,Supplier 0204,Georgia,4.08,Y
+205,Supplier 0205,France,4.1,Y
+206,Supplier 0206,Azerbaijan,3.58,Y
+207,Supplier 0207,Turkey,4.78,Y
+208,Supplier 0208,Italy,4.49,Y
+209,Supplier 0209,Azerbaijan,4.0,Y
+210,Supplier 0210,Turkey,4.11,Y
+211,Supplier 0211,France,4.19,Y
+212,Supplier 0212,Spain,3.18,Y
+213,Supplier 0213,Italy,3.99,N
+214,Supplier 0214,Germany,3.79,Y
+215,Supplier 0215,Spain,3.65,Y
+216,Supplier 0216,Germany,3.97,Y
+217,Supplier 0217,United Kingdom,4.91,Y
+218,Supplier 0218,Poland,4.39,Y
+219,Supplier 0219,Italy,3.84,Y
+220,Supplier 0220,UAE,4.36,Y
+221,Supplier 0221,Italy,4.73,Y
+222,Supplier 0222,France,4.52,Y
+223,Supplier 0223,Turkey,4.13,Y
+224,Supplier 0224,United Kingdom,3.81,Y
+225,Supplier 0225,Germany,4.41,Y
+226,Supplier 0226,Germany,4.28,Y
+227,Supplier 0227,Kazakhstan,4.5,Y
+228,Supplier 0228,United Kingdom,4.39,Y
+229,Supplier 0229,Georgia,4.57,Y
+230,Supplier 0230,Italy,3.86,Y
+231,Supplier 0231,Poland,4.69,Y
+232,Supplier 0232,United States,4.19,Y
+233,Supplier 0233,France,5.0,Y
+234,Supplier 0234,United States,3.79,Y
+235,Supplier 0235,Turkey,4.88,Y
+236,Supplier 0236,Spain,4.19,Y
+237,Supplier 0237,Germany,3.81,Y
+238,Supplier 0238,Azerbaijan,3.88,Y
+239,Supplier 0239,Italy,3.96,Y
+240,Supplier 0240,Turkey,4.29,Y
+241,Supplier 0241,Kazakhstan,4.34,Y
+242,Supplier 0242,Kazakhstan,3.84,Y
+243,Supplier 0243,Georgia,4.09,Y
+244,Supplier 0244,United Kingdom,5.0,N
+245,Supplier 0245,Azerbaijan,4.88,Y
+246,Supplier 0246,Kazakhstan,4.3,Y
+247,Supplier 0247,United States,4.12,Y
+248,Supplier 0248,Kazakhstan,4.15,Y
+249,Supplier 0249,Kazakhstan,4.38,Y
+250,Supplier 0250,UAE,3.64,Y
+251,Supplier 0251,Germany,3.98,Y
+252,Supplier 0252,United Kingdom,3.35,Y
+253,Supplier 0253,UAE,4.28,Y
+254,Supplier 0254,United Kingdom,4.39,Y
+255,Supplier 0255,Turkey,3.88,Y
+256,Supplier 0256,France,4.81,Y
+257,Supplier 0257,Kazakhstan,3.55,Y
+258,Supplier 0258,Spain,3.44,Y
+259,Supplier 0259,France,4.2,Y
+260,Supplier 0260,Turkey,4.57,Y
+261,Supplier 0261,Italy,4.86,Y
+262,Supplier 0262,Kazakhstan,3.89,Y
+263,Supplier 0263,Turkey,4.59,Y
+264,Supplier 0264,United States,4.08,Y
+265,Supplier 0265,Georgia,4.02,Y
+266,Supplier 0266,Poland,4.5,Y
+267,Supplier 0267,Spain,4.39,Y
+268,Supplier 0268,Spain,3.39,Y
+269,Supplier 0269,United Kingdom,4.76,Y
+270,Supplier 0270,Germany,4.72,Y
+271,Supplier 0271,UAE,3.82,Y
+272,Supplier 0272,UAE,4.28,Y
+273,Supplier 0273,UAE,4.32,Y
+274,Supplier 0274,Georgia,4.22,Y
+275,Supplier 0275,United States,3.85,Y
+276,Supplier 0276,United States,3.8,Y
+277,Supplier 0277,Poland,4.09,Y
+278,Supplier 0278,Italy,4.63,Y
+279,Supplier 0279,Spain,4.34,Y
+280,Supplier 0280,Poland,3.93,Y
+281,Supplier 0281,Georgia,4.45,Y
+282,Supplier 0282,United Kingdom,2.82,Y
+283,Supplier 0283,United Kingdom,4.62,Y
+284,Supplier 0284,Turkey,3.32,Y
+285,Supplier 0285,France,3.94,Y
+286,Supplier 0286,Azerbaijan,3.6,Y
+287,Supplier 0287,United States,3.52,Y
+288,Supplier 0288,France,4.62,Y
+289,Supplier 0289,Germany,3.89,Y
+290,Supplier 0290,France,4.26,Y
+291,Supplier 0291,Azerbaijan,4.08,N
+292,Supplier 0292,Azerbaijan,4.31,Y
+293,Supplier 0293,UAE,4.13,Y
+294,Supplier 0294,United Kingdom,3.52,Y
+295,Supplier 0295,Turkey,4.55,Y
+296,Supplier 0296,United States,3.88,Y
+297,Supplier 0297,Poland,3.4,Y
+298,Supplier 0298,Germany,3.91,Y
+299,Supplier 0299,Italy,4.78,Y
+300,Supplier 0300,Turkey,4.48,Y
+301,Supplier 0301,Azerbaijan,3.94,Y
+302,Supplier 0302,United States,3.94,Y
+303,Supplier 0303,France,3.96,Y
+304,Supplier 0304,Italy,5.0,Y
+305,Supplier 0305,Spain,4.27,Y
+306,Supplier 0306,Kazakhstan,4.29,Y
+307,Supplier 0307,United States,4.56,Y
+308,Supplier 0308,United Kingdom,4.21,Y
+309,Supplier 0309,Poland,3.98,Y
+310,Supplier 0310,Germany,4.01,Y
+311,Supplier 0311,United States,4.07,Y
+312,Supplier 0312,Azerbaijan,4.08,Y
+313,Supplier 0313,Azerbaijan,4.43,Y
+314,Supplier 0314,Kazakhstan,4.12,Y
+315,Supplier 0315,UAE,4.43,Y
+316,Supplier 0316,Spain,4.06,Y
+317,Supplier 0317,United States,4.14,Y
+318,Supplier 0318,Turkey,3.2,Y
+319,Supplier 0319,Turkey,4.51,Y
+320,Supplier 0320,Germany,4.26,Y
+321,Supplier 0321,France,4.55,Y
+322,Supplier 0322,Spain,2.8,Y
+323,Supplier 0323,Italy,5.0,Y
+324,Supplier 0324,Germany,4.04,Y
+325,Supplier 0325,Kazakhstan,4.6,Y
+326,Supplier 0326,Spain,3.63,Y
+327,Supplier 0327,France,4.38,Y
+328,Supplier 0328,Italy,3.63,Y
+329,Supplier 0329,United States,3.82,Y
+330,Supplier 0330,Germany,4.96,Y
+331,Supplier 0331,United Kingdom,4.01,Y
+332,Supplier 0332,Poland,4.2,Y
+333,Supplier 0333,Azerbaijan,4.49,Y
+334,Supplier 0334,Turkey,4.32,Y
+335,Supplier 0335,Azerbaijan,4.17,Y
+336,Supplier 0336,Azerbaijan,4.26,Y
+337,Supplier 0337,UAE,5.0,Y
+338,Supplier 0338,Spain,4.07,Y
+339,Supplier 0339,United States,4.19,Y
+340,Supplier 0340,Turkey,4.57,Y
+341,Supplier 0341,United States,4.6,Y
+342,Supplier 0342,United States,4.63,Y
+343,Supplier 0343,Turkey,4.39,Y
+344,Supplier 0344,United States,3.59,Y
+345,Supplier 0345,United Kingdom,4.84,Y
+346,Supplier 0346,Italy,3.58,Y
+347,Supplier 0347,Italy,4.24,Y
+348,Supplier 0348,Azerbaijan,3.76,Y
+349,Supplier 0349,United Kingdom,4.07,Y
+350,Supplier 0350,Italy,4.25,Y
+351,Supplier 0351,United States,4.24,Y
+352,Supplier 0352,UAE,4.29,Y
+353,Supplier 0353,Italy,4.83,Y
+354,Supplier 0354,Turkey,4.3,Y
+355,Supplier 0355,Azerbaijan,3.99,Y
+356,Supplier 0356,Italy,4.53,Y
+357,Supplier 0357,Azerbaijan,4.64,Y
+358,Supplier 0358,France,3.55,Y
+359,Supplier 0359,Kazakhstan,4.37,Y
+360,Supplier 0360,France,4.42,Y
+361,Supplier 0361,United Kingdom,3.97,Y
+362,Supplier 0362,Italy,4.72,Y
+363,Supplier 0363,United States,4.03,Y
+364,Supplier 0364,France,4.16,Y
+365,Supplier 0365,Kazakhstan,4.02,Y
+366,Supplier 0366,United Kingdom,4.11,Y
+367,Supplier 0367,Kazakhstan,3.61,Y
+368,Supplier 0368,Georgia,3.45,Y
+369,Supplier 0369,Turkey,4.82,Y
+370,Supplier 0370,Azerbaijan,3.72,Y
+371,Supplier 0371,Turkey,3.65,Y
+372,Supplier 0372,Azerbaijan,3.13,Y
+373,Supplier 0373,Turkey,3.81,Y
+374,Supplier 0374,Spain,3.5,Y
+375,Supplier 0375,Azerbaijan,4.84,Y
+376,Supplier 0376,United Kingdom,4.55,Y
+377,Supplier 0377,UAE,3.79,Y
+378,Supplier 0378,Azerbaijan,5.0,Y
+379,Supplier 0379,UAE,4.54,Y
+380,Supplier 0380,Germany,3.95,Y
+381,Supplier 0381,Turkey,2.98,Y
+382,Supplier 0382,Spain,5.0,Y
+383,Supplier 0383,Italy,3.47,Y
+384,Supplier 0384,Georgia,3.36,Y
+385,Supplier 0385,Spain,4.56,Y
+386,Supplier 0386,UAE,5.0,Y
+387,Supplier 0387,Germany,4.72,Y
+388,Supplier 0388,Turkey,4.35,Y
+389,Supplier 0389,Poland,4.37,Y
+390,Supplier 0390,UAE,4.48,Y
+391,Supplier 0391,Kazakhstan,4.44,Y
+392,Supplier 0392,United States,4.23,Y
+393,Supplier 0393,United Kingdom,4.15,Y
+394,Supplier 0394,Poland,4.07,Y
+395,Supplier 0395,United Kingdom,3.76,Y
+396,Supplier 0396,Kazakhstan,3.97,Y
+397,Supplier 0397,UAE,3.34,Y
+398,Supplier 0398,United States,4.06,Y
+399,Supplier 0399,Poland,3.66,Y
+400,Supplier 0400,Poland,3.6,Y
+401,Supplier 0401,Turkey,4.18,Y
+402,Supplier 0402,Georgia,4.73,Y
+403,Supplier 0403,United States,4.51,Y
+404,Supplier 0404,UAE,3.39,Y
+405,Supplier 0405,United Kingdom,3.65,Y
+406,Supplier 0406,Georgia,4.52,Y
+407,Supplier 0407,United Kingdom,3.66,Y
+408,Supplier 0408,Azerbaijan,4.0,Y
+409,Supplier 0409,Georgia,4.35,Y
+410,Supplier 0410,Turkey,3.66,Y
+411,Supplier 0411,United Kingdom,4.15,Y
+412,Supplier 0412,Kazakhstan,3.5,Y
+413,Supplier 0413,Kazakhstan,3.83,Y
+414,Supplier 0414,France,4.24,Y
+415,Supplier 0415,Italy,3.38,Y
+416,Supplier 0416,United States,4.3,N
+417,Supplier 0417,Germany,4.09,Y
+418,Supplier 0418,United Kingdom,4.35,Y
+419,Supplier 0419,Italy,4.2,Y
+420,Supplier 0420,Poland,4.71,Y
+421,Supplier 0421,Poland,4.16,Y
+422,Supplier 0422,Poland,3.91,Y
+423,Supplier 0423,Turkey,4.16,Y
+424,Supplier 0424,United States,4.34,Y
+425,Supplier 0425,Azerbaijan,4.12,Y
+426,Supplier 0426,France,4.12,Y
+427,Supplier 0427,United States,3.78,Y
+428,Supplier 0428,Georgia,3.8,Y
+429,Supplier 0429,United Kingdom,3.47,Y
+430,Supplier 0430,Turkey,4.89,Y
+431,Supplier 0431,Turkey,3.54,Y
+432,Supplier 0432,Poland,3.79,N
+433,Supplier 0433,Italy,3.78,Y
+434,Supplier 0434,Turkey,4.5,Y
+435,Supplier 0435,Turkey,3.97,Y
+436,Supplier 0436,Spain,4.66,Y
+437,Supplier 0437,Azerbaijan,3.8,Y
+438,Supplier 0438,UAE,4.23,Y
+439,Supplier 0439,Spain,3.72,Y
+440,Supplier 0440,Turkey,5.0,Y
+441,Supplier 0441,Turkey,3.57,Y
+442,Supplier 0442,Kazakhstan,4.24,Y
+443,Supplier 0443,United Kingdom,4.39,Y
+444,Supplier 0444,United Kingdom,4.29,Y
+445,Supplier 0445,UAE,4.02,Y
+446,Supplier 0446,Kazakhstan,4.04,Y
+447,Supplier 0447,Kazakhstan,4.12,Y
+448,Supplier 0448,Poland,4.03,Y
+449,Supplier 0449,United Kingdom,4.53,Y
+450,Supplier 0450,Turkey,5.0,Y
+451,Supplier 0451,Poland,3.85,N
+452,Supplier 0452,France,3.48,Y
+453,Supplier 0453,United States,4.06,Y
+454,Supplier 0454,Georgia,5.0,Y
+455,Supplier 0455,Turkey,3.74,Y
+456,Supplier 0456,United States,4.84,Y
+457,Supplier 0457,Azerbaijan,4.85,Y
+458,Supplier 0458,United States,3.85,Y
+459,Supplier 0459,Azerbaijan,4.36,Y
+460,Supplier 0460,Turkey,4.83,Y
+461,Supplier 0461,Turkey,3.93,Y
+462,Supplier 0462,Italy,4.01,Y
+463,Supplier 0463,Poland,3.84,Y
+464,Supplier 0464,France,3.64,Y
+465,Supplier 0465,Kazakhstan,3.81,Y
+466,Supplier 0466,United Kingdom,3.55,Y
+467,Supplier 0467,Germany,4.12,Y
+468,Supplier 0468,UAE,3.75,Y
+469,Supplier 0469,Germany,4.21,Y
+470,Supplier 0470,Kazakhstan,3.4,Y
+471,Supplier 0471,Azerbaijan,4.25,Y
+472,Supplier 0472,Kazakhstan,4.48,Y
+473,Supplier 0473,Azerbaijan,3.2,Y
+474,Supplier 0474,Georgia,4.27,Y
+475,Supplier 0475,United States,4.65,Y
+476,Supplier 0476,Kazakhstan,3.56,Y
+477,Supplier 0477,Azerbaijan,4.85,Y
+478,Supplier 0478,France,4.29,Y
+479,Supplier 0479,Kazakhstan,3.78,Y
+480,Supplier 0480,United States,4.07,Y
+481,Supplier 0481,Italy,4.35,Y
+482,Supplier 0482,Spain,4.13,Y
+483,Supplier 0483,United States,4.34,Y
+484,Supplier 0484,Italy,3.69,Y
+485,Supplier 0485,France,4.18,Y
+486,Supplier 0486,Georgia,3.46,Y
+487,Supplier 0487,Azerbaijan,4.05,Y
+488,Supplier 0488,Germany,3.69,Y
+489,Supplier 0489,Kazakhstan,3.77,Y
+490,Supplier 0490,Georgia,4.66,Y
+491,Supplier 0491,United States,4.59,Y
+492,Supplier 0492,Italy,4.37,Y
+493,Supplier 0493,Germany,3.61,Y
+494,Supplier 0494,Turkey,3.96,Y
+495,Supplier 0495,United States,4.65,Y
+496,Supplier 0496,United Kingdom,4.16,Y
+497,Supplier 0497,France,5.0,N
+498,Supplier 0498,Azerbaijan,4.28,Y
+499,Supplier 0499,Kazakhstan,4.19,Y
+500,Supplier 0500,Kazakhstan,3.96,Y
+501,Supplier 0501,Spain,4.16,Y
+502,Supplier 0502,United States,4.03,Y
+503,Supplier 0503,United Kingdom,4.42,Y
+504,Supplier 0504,UAE,4.53,N
+505,Supplier 0505,Spain,3.75,Y
+506,Supplier 0506,Turkey,3.5,N
+507,Supplier 0507,Georgia,3.27,Y
+508,Supplier 0508,UAE,4.33,Y
+509,Supplier 0509,Kazakhstan,3.6,Y
+510,Supplier 0510,Spain,3.13,Y
+511,Supplier 0511,Italy,4.27,Y
+512,Supplier 0512,United States,5.0,Y
+513,Supplier 0513,Kazakhstan,4.1,N
+514,Supplier 0514,UAE,4.48,Y
+515,Supplier 0515,Azerbaijan,4.14,Y
+516,Supplier 0516,Azerbaijan,4.06,Y
+517,Supplier 0517,United Kingdom,4.51,Y
+518,Supplier 0518,UAE,3.97,Y
+519,Supplier 0519,Kazakhstan,4.22,Y
+520,Supplier 0520,Turkey,4.24,N
+521,Supplier 0521,France,3.8,Y
+522,Supplier 0522,United Kingdom,4.55,Y
+523,Supplier 0523,Kazakhstan,4.02,Y
+524,Supplier 0524,UAE,3.76,Y
+525,Supplier 0525,UAE,4.34,Y
+526,Supplier 0526,United States,3.7,Y
+527,Supplier 0527,United States,4.11,Y
+528,Supplier 0528,Germany,4.1,Y
+529,Supplier 0529,Azerbaijan,4.59,Y
+530,Supplier 0530,UAE,4.31,Y
+531,Supplier 0531,UAE,4.09,Y
+532,Supplier 0532,Kazakhstan,4.47,Y
+533,Supplier 0533,Kazakhstan,4.73,Y
+534,Supplier 0534,France,4.35,Y
+535,Supplier 0535,Poland,4.1,Y
+536,Supplier 0536,Kazakhstan,3.51,Y
+537,Supplier 0537,UAE,3.62,Y
+538,Supplier 0538,Germany,3.96,Y
+539,Supplier 0539,United States,3.83,Y
+540,Supplier 0540,Turkey,4.02,Y
+541,Supplier 0541,Kazakhstan,4.13,Y
+542,Supplier 0542,France,4.34,Y
+543,Supplier 0543,Germany,4.07,Y
+544,Supplier 0544,Italy,4.32,Y
+545,Supplier 0545,Italy,4.13,Y
+546,Supplier 0546,United Kingdom,3.21,Y
+547,Supplier 0547,Turkey,3.68,Y
+548,Supplier 0548,Italy,4.04,Y
+549,Supplier 0549,United States,3.56,Y
+550,Supplier 0550,Poland,4.37,Y
+551,Supplier 0551,United States,4.79,N
+552,Supplier 0552,UAE,4.65,Y
+553,Supplier 0553,France,4.0,Y
+554,Supplier 0554,France,4.77,Y
+555,Supplier 0555,Georgia,4.17,Y
+556,Supplier 0556,United States,3.95,Y
+557,Supplier 0557,Turkey,3.82,Y
+558,Supplier 0558,Azerbaijan,3.96,Y
+559,Supplier 0559,Poland,3.93,Y
+560,Supplier 0560,Italy,4.18,Y
+561,Supplier 0561,Spain,4.17,Y
+562,Supplier 0562,Germany,4.1,Y
+563,Supplier 0563,Turkey,4.3,Y
+564,Supplier 0564,Azerbaijan,4.64,Y
+565,Supplier 0565,United Kingdom,4.53,Y
+566,Supplier 0566,France,3.43,Y
+567,Supplier 0567,United Kingdom,2.95,Y
+568,Supplier 0568,United States,4.52,Y
+569,Supplier 0569,Georgia,3.48,Y
+570,Supplier 0570,United Kingdom,4.0,Y
+571,Supplier 0571,United States,3.57,Y
+572,Supplier 0572,Poland,3.29,Y
+573,Supplier 0573,United Kingdom,4.34,Y
+574,Supplier 0574,Italy,4.44,Y
+575,Supplier 0575,UAE,3.84,Y
+576,Supplier 0576,Kazakhstan,2.93,Y
+577,Supplier 0577,Turkey,3.85,Y
+578,Supplier 0578,Kazakhstan,4.28,Y
+579,Supplier 0579,United States,3.43,Y
+580,Supplier 0580,Germany,4.18,Y
+581,Supplier 0581,United States,4.09,Y
+582,Supplier 0582,Kazakhstan,4.36,Y
+583,Supplier 0583,United States,4.15,Y
+584,Supplier 0584,United Kingdom,3.66,Y
+585,Supplier 0585,Italy,4.64,Y
+586,Supplier 0586,Germany,4.03,Y
+587,Supplier 0587,Azerbaijan,4.09,Y
+588,Supplier 0588,Turkey,3.68,Y
+589,Supplier 0589,Turkey,3.9,Y
+590,Supplier 0590,Turkey,3.7,Y
+591,Supplier 0591,Turkey,4.02,Y
+592,Supplier 0592,Italy,4.87,Y
+593,Supplier 0593,Turkey,3.48,Y
+594,Supplier 0594,United Kingdom,3.37,Y
+595,Supplier 0595,Georgia,4.76,Y
+596,Supplier 0596,United States,4.01,Y
+597,Supplier 0597,Italy,3.8,Y
+598,Supplier 0598,Turkey,4.57,Y
+599,Supplier 0599,Turkey,3.83,Y
+600,Supplier 0600,Azerbaijan,4.92,Y
+601,Supplier 0601,Turkey,4.41,Y
+602,Supplier 0602,Germany,3.88,Y
+603,Supplier 0603,Turkey,5.0,Y
+604,Supplier 0604,Turkey,3.83,Y
+605,Supplier 0605,Turkey,4.43,Y
+606,Supplier 0606,United States,4.23,Y
+607,Supplier 0607,Germany,4.69,Y
+608,Supplier 0608,United Kingdom,4.8,Y
+609,Supplier 0609,United States,4.11,Y
+610,Supplier 0610,Spain,3.76,Y
+611,Supplier 0611,Azerbaijan,4.31,Y
+612,Supplier 0612,Poland,3.8,Y
+613,Supplier 0613,Italy,5.0,Y
+614,Supplier 0614,Turkey,4.16,Y
+615,Supplier 0615,Georgia,3.94,Y
+616,Supplier 0616,Kazakhstan,4.18,Y
+617,Supplier 0617,Azerbaijan,3.49,Y
+618,Supplier 0618,Germany,3.66,Y
+619,Supplier 0619,UAE,4.64,Y
+620,Supplier 0620,Poland,3.8,Y
+621,Supplier 0621,Turkey,3.63,N
+622,Supplier 0622,Germany,4.34,Y
+623,Supplier 0623,United Kingdom,4.63,Y
+624,Supplier 0624,United States,4.42,Y
+625,Supplier 0625,Italy,4.55,Y
+626,Supplier 0626,United Kingdom,3.76,Y
+627,Supplier 0627,United States,3.46,Y
+628,Supplier 0628,Poland,4.78,Y
+629,Supplier 0629,Azerbaijan,3.95,Y
+630,Supplier 0630,Germany,3.99,Y
+631,Supplier 0631,Spain,4.7,Y
+632,Supplier 0632,Georgia,4.35,Y
+633,Supplier 0633,United States,4.31,Y
+634,Supplier 0634,United States,5.0,Y
+635,Supplier 0635,Turkey,3.81,Y
+636,Supplier 0636,United States,4.52,Y
+637,Supplier 0637,United States,4.13,Y
+638,Supplier 0638,Germany,4.22,Y
+639,Supplier 0639,Germany,4.79,Y
+640,Supplier 0640,United Kingdom,4.33,Y
+641,Supplier 0641,Azerbaijan,4.34,Y
+642,Supplier 0642,United Kingdom,4.58,N
+643,Supplier 0643,Germany,3.94,Y
+644,Supplier 0644,United Kingdom,3.72,Y
+645,Supplier 0645,Turkey,3.63,Y
+646,Supplier 0646,Georgia,3.22,Y
+647,Supplier 0647,France,5.0,Y
+648,Supplier 0648,Italy,3.6,Y
+649,Supplier 0649,Poland,4.0,Y
+650,Supplier 0650,United States,3.98,Y
+651,Supplier 0651,Turkey,4.24,Y
+652,Supplier 0652,United States,4.47,Y
+653,Supplier 0653,France,4.49,Y
+654,Supplier 0654,Poland,3.84,Y
+655,Supplier 0655,United States,4.02,Y
+656,Supplier 0656,Turkey,4.23,Y
+657,Supplier 0657,Germany,3.99,Y
+658,Supplier 0658,United Kingdom,4.82,Y
+659,Supplier 0659,Italy,4.32,Y
+660,Supplier 0660,France,4.43,Y
+661,Supplier 0661,United Kingdom,4.4,Y
+662,Supplier 0662,Kazakhstan,4.63,Y
+663,Supplier 0663,France,4.18,Y
+664,Supplier 0664,Germany,3.52,Y
+665,Supplier 0665,Turkey,4.28,Y
+666,Supplier 0666,Turkey,3.81,Y
+667,Supplier 0667,Germany,3.86,Y
+668,Supplier 0668,Turkey,4.36,Y
+669,Supplier 0669,Turkey,4.66,Y
+670,Supplier 0670,Germany,4.11,Y
+671,Supplier 0671,Turkey,4.24,Y
+672,Supplier 0672,Georgia,4.87,Y
+673,Supplier 0673,Turkey,4.21,Y
+674,Supplier 0674,United States,5.0,Y
+675,Supplier 0675,United States,4.35,Y
+676,Supplier 0676,Kazakhstan,3.31,Y
+677,Supplier 0677,Turkey,4.44,Y
+678,Supplier 0678,United Kingdom,4.27,N
+679,Supplier 0679,Kazakhstan,4.68,Y
+680,Supplier 0680,UAE,4.4,Y
+681,Supplier 0681,UAE,4.04,Y
+682,Supplier 0682,Germany,3.55,Y
+683,Supplier 0683,Turkey,4.01,Y
+684,Supplier 0684,Italy,3.72,Y
+685,Supplier 0685,Kazakhstan,3.84,Y
+686,Supplier 0686,France,4.36,Y
+687,Supplier 0687,France,4.85,Y
+688,Supplier 0688,Germany,4.28,Y
+689,Supplier 0689,Poland,3.56,Y
+690,Supplier 0690,Turkey,4.3,Y
+691,Supplier 0691,United Kingdom,4.64,Y
+692,Supplier 0692,United States,3.83,Y
+693,Supplier 0693,United States,4.04,Y
+694,Supplier 0694,Germany,4.11,N
+695,Supplier 0695,Turkey,3.75,Y
+696,Supplier 0696,Italy,4.39,Y
+697,Supplier 0697,Germany,4.05,Y
+698,Supplier 0698,France,4.29,Y
+699,Supplier 0699,Turkey,3.7,Y
+700,Supplier 0700,United States,3.9,Y
+701,Supplier 0701,United States,4.43,Y
+702,Supplier 0702,Azerbaijan,3.93,Y
+703,Supplier 0703,United Kingdom,4.88,Y
+704,Supplier 0704,Turkey,3.92,Y
+705,Supplier 0705,Azerbaijan,4.2,Y
+706,Supplier 0706,Kazakhstan,4.52,Y
+707,Supplier 0707,United Kingdom,3.46,Y
+708,Supplier 0708,UAE,3.31,Y
+709,Supplier 0709,Germany,3.41,Y
+710,Supplier 0710,Spain,4.67,Y
+711,Supplier 0711,Poland,3.85,Y
+712,Supplier 0712,France,5.0,Y
+713,Supplier 0713,United States,3.85,Y
+714,Supplier 0714,United States,4.18,Y
+715,Supplier 0715,United Kingdom,4.79,Y
+716,Supplier 0716,Kazakhstan,5.0,Y
+717,Supplier 0717,UAE,5.0,Y
+718,Supplier 0718,Kazakhstan,4.64,Y
+719,Supplier 0719,Turkey,4.56,Y
+720,Supplier 0720,Spain,4.37,Y
+721,Supplier 0721,Kazakhstan,4.45,Y
+722,Supplier 0722,Turkey,3.85,Y
+723,Supplier 0723,Azerbaijan,3.73,Y
+724,Supplier 0724,Poland,4.1,Y
+725,Supplier 0725,France,4.02,Y
+726,Supplier 0726,UAE,3.9,Y
+727,Supplier 0727,Turkey,4.41,Y
+728,Supplier 0728,Poland,4.53,Y
+729,Supplier 0729,Germany,4.14,Y
+730,Supplier 0730,Turkey,4.76,Y
+731,Supplier 0731,Turkey,3.59,Y
+732,Supplier 0732,UAE,4.01,Y
+733,Supplier 0733,Italy,3.78,Y
+734,Supplier 0734,United States,3.26,Y
+735,Supplier 0735,United Kingdom,4.06,Y
+736,Supplier 0736,Georgia,4.05,Y
+737,Supplier 0737,United Kingdom,4.78,Y
+738,Supplier 0738,UAE,4.38,Y
+739,Supplier 0739,United States,3.64,Y
+740,Supplier 0740,United Kingdom,4.93,Y
+741,Supplier 0741,United States,4.65,Y
+742,Supplier 0742,United Kingdom,4.36,Y
+743,Supplier 0743,Poland,4.0,Y
+744,Supplier 0744,United States,3.67,Y
+745,Supplier 0745,Germany,3.93,Y
+746,Supplier 0746,Georgia,4.59,Y
+747,Supplier 0747,United Kingdom,4.95,Y
+748,Supplier 0748,France,4.79,Y
+749,Supplier 0749,Georgia,3.88,Y
+750,Supplier 0750,Italy,3.6,Y
+751,Supplier 0751,Turkey,4.16,Y
+752,Supplier 0752,Kazakhstan,3.3,N
+753,Supplier 0753,Italy,4.25,Y
+754,Supplier 0754,United Kingdom,4.03,Y
+755,Supplier 0755,Turkey,3.89,Y
+756,Supplier 0756,Poland,3.38,N
+757,Supplier 0757,Italy,4.33,Y
+758,Supplier 0758,United States,3.86,Y
+759,Supplier 0759,Georgia,3.57,Y
+760,Supplier 0760,Poland,2.81,Y
+761,Supplier 0761,Turkey,4.09,Y
+762,Supplier 0762,United Kingdom,4.9,Y
+763,Supplier 0763,Germany,4.85,Y
+764,Supplier 0764,Poland,3.89,Y
+765,Supplier 0765,Azerbaijan,3.83,Y
+766,Supplier 0766,France,4.31,Y
+767,Supplier 0767,Poland,3.65,Y
+768,Supplier 0768,Georgia,4.24,Y
+769,Supplier 0769,United Kingdom,4.44,Y
+770,Supplier 0770,UAE,4.65,Y
+771,Supplier 0771,Turkey,4.05,Y
+772,Supplier 0772,UAE,4.01,Y
+773,Supplier 0773,Turkey,3.7,Y
+774,Supplier 0774,United Kingdom,3.73,Y
+775,Supplier 0775,Poland,4.0,Y
+776,Supplier 0776,Turkey,4.27,Y
+777,Supplier 0777,Germany,4.51,Y
+778,Supplier 0778,Spain,3.74,Y
+779,Supplier 0779,Spain,4.77,Y
+780,Supplier 0780,Italy,3.98,Y
+781,Supplier 0781,Spain,4.09,Y
+782,Supplier 0782,France,3.76,Y
+783,Supplier 0783,Germany,3.01,Y
+784,Supplier 0784,United Kingdom,4.5,Y
+785,Supplier 0785,Turkey,4.43,Y
+786,Supplier 0786,Georgia,3.97,Y
+787,Supplier 0787,France,4.13,Y
+788,Supplier 0788,United States,4.33,Y
+789,Supplier 0789,United States,3.4,Y
+790,Supplier 0790,Kazakhstan,3.86,Y
+791,Supplier 0791,Turkey,4.46,Y
+792,Supplier 0792,France,3.54,Y
+793,Supplier 0793,United States,4.23,Y
+794,Supplier 0794,Italy,3.49,Y
+795,Supplier 0795,Azerbaijan,4.31,Y
+796,Supplier 0796,Georgia,4.08,Y
+797,Supplier 0797,Kazakhstan,3.37,Y
+798,Supplier 0798,France,4.62,Y
+799,Supplier 0799,Spain,3.77,Y
+800,Supplier 0800,Kazakhstan,3.74,Y
+801,Supplier 0801,Spain,4.19,Y
+802,Supplier 0802,Turkey,4.62,Y
+803,Supplier 0803,France,3.64,Y
+804,Supplier 0804,France,4.13,Y
+805,Supplier 0805,United States,4.29,Y
+806,Supplier 0806,Spain,4.41,Y
+807,Supplier 0807,Kazakhstan,4.18,Y
+808,Supplier 0808,Kazakhstan,3.93,Y
+809,Supplier 0809,United States,3.73,Y
+810,Supplier 0810,Turkey,4.14,Y
+811,Supplier 0811,Kazakhstan,3.62,N
+812,Supplier 0812,UAE,2.79,Y
+813,Supplier 0813,Turkey,4.3,Y
+814,Supplier 0814,Kazakhstan,4.51,Y
+815,Supplier 0815,UAE,3.04,Y
+816,Supplier 0816,United States,3.65,Y
+817,Supplier 0817,France,4.38,Y
+818,Supplier 0818,United Kingdom,5.0,Y
+819,Supplier 0819,Azerbaijan,4.11,Y
+820,Supplier 0820,United Kingdom,3.77,Y
+821,Supplier 0821,UAE,4.02,Y
+822,Supplier 0822,Azerbaijan,4.72,Y
+823,Supplier 0823,United Kingdom,3.81,Y
+824,Supplier 0824,United Kingdom,3.74,Y
+825,Supplier 0825,United States,3.88,Y
+826,Supplier 0826,Georgia,3.67,Y
+827,Supplier 0827,United Kingdom,4.16,Y
+828,Supplier 0828,United Kingdom,4.83,Y
+829,Supplier 0829,Spain,4.25,Y
+830,Supplier 0830,United States,3.99,Y
+831,Supplier 0831,Germany,3.97,Y
+832,Supplier 0832,United States,3.4,Y
+833,Supplier 0833,Turkey,4.5,Y
+834,Supplier 0834,Turkey,4.06,Y
+835,Supplier 0835,United States,4.02,Y
+836,Supplier 0836,United States,5.0,Y
+837,Supplier 0837,Georgia,4.23,Y
+838,Supplier 0838,United Kingdom,3.76,Y
+839,Supplier 0839,France,3.91,Y
+840,Supplier 0840,Italy,4.62,Y
+841,Supplier 0841,Azerbaijan,4.15,Y
+842,Supplier 0842,Italy,3.45,Y
+843,Supplier 0843,Turkey,4.51,Y
+844,Supplier 0844,Kazakhstan,3.8,Y
+845,Supplier 0845,Turkey,4.94,Y
+846,Supplier 0846,United States,4.59,Y
+847,Supplier 0847,Turkey,3.9,Y
+848,Supplier 0848,Kazakhstan,4.68,Y
+849,Supplier 0849,United States,4.13,Y
+850,Supplier 0850,France,4.48,Y
+851,Supplier 0851,Azerbaijan,4.32,Y
+852,Supplier 0852,Poland,3.72,Y
+853,Supplier 0853,Germany,3.81,Y
+854,Supplier 0854,Georgia,4.56,Y
+855,Supplier 0855,Germany,3.95,Y
+856,Supplier 0856,Turkey,3.92,Y
+857,Supplier 0857,Azerbaijan,3.67,Y
+858,Supplier 0858,United States,4.29,Y
+859,Supplier 0859,France,5.0,Y
+860,Supplier 0860,Azerbaijan,3.62,Y
+861,Supplier 0861,Poland,4.11,Y
+862,Supplier 0862,United States,4.74,Y
+863,Supplier 0863,United States,4.06,Y
+864,Supplier 0864,United States,4.3,Y
+865,Supplier 0865,United States,3.62,Y
+866,Supplier 0866,France,4.29,Y
+867,Supplier 0867,Turkey,4.02,Y
+868,Supplier 0868,Turkey,4.54,Y
+869,Supplier 0869,UAE,4.63,Y
+870,Supplier 0870,Kazakhstan,5.0,Y
+871,Supplier 0871,United Kingdom,4.36,Y
+872,Supplier 0872,Germany,4.25,Y
+873,Supplier 0873,Italy,4.19,Y
+874,Supplier 0874,United States,3.94,Y
+875,Supplier 0875,Azerbaijan,4.25,Y
+876,Supplier 0876,Turkey,3.97,Y
+877,Supplier 0877,Spain,4.18,Y
+878,Supplier 0878,Italy,4.69,Y
+879,Supplier 0879,Azerbaijan,3.65,Y
+880,Supplier 0880,Germany,4.61,Y
+881,Supplier 0881,Germany,4.69,Y
+882,Supplier 0882,Italy,4.05,Y
+883,Supplier 0883,Azerbaijan,3.15,Y
+884,Supplier 0884,Turkey,3.83,Y
+885,Supplier 0885,Poland,4.68,Y
+886,Supplier 0886,Turkey,4.09,Y
+887,Supplier 0887,Italy,3.65,Y
+888,Supplier 0888,Germany,3.87,Y
+889,Supplier 0889,Turkey,4.48,Y
+890,Supplier 0890,Germany,4.35,Y
+891,Supplier 0891,Spain,3.99,Y
+892,Supplier 0892,UAE,3.93,Y
+893,Supplier 0893,UAE,3.92,Y
+894,Supplier 0894,United Kingdom,3.68,Y
+895,Supplier 0895,Italy,4.83,Y
+896,Supplier 0896,Germany,3.95,Y
+897,Supplier 0897,Germany,4.65,Y
+898,Supplier 0898,Georgia,4.78,Y
+899,Supplier 0899,Azerbaijan,4.55,Y
+900,Supplier 0900,Turkey,3.91,Y
+901,Supplier 0901,Germany,4.28,Y
+902,Supplier 0902,Azerbaijan,4.09,Y
+903,Supplier 0903,Turkey,3.69,Y
+904,Supplier 0904,France,4.25,Y
+905,Supplier 0905,United States,3.57,Y
+906,Supplier 0906,Georgia,4.63,Y
+907,Supplier 0907,UAE,3.89,Y
+908,Supplier 0908,United Kingdom,4.19,Y
+909,Supplier 0909,Germany,4.23,Y
+910,Supplier 0910,United Kingdom,3.98,Y
+911,Supplier 0911,France,4.36,Y
+912,Supplier 0912,Germany,3.89,Y
+913,Supplier 0913,Italy,4.49,Y
+914,Supplier 0914,United States,3.49,Y
+915,Supplier 0915,France,4.16,Y
+916,Supplier 0916,United States,4.97,Y
+917,Supplier 0917,Germany,3.65,Y
+918,Supplier 0918,Kazakhstan,3.8,Y
+919,Supplier 0919,Poland,4.33,Y
+920,Supplier 0920,Turkey,4.18,Y
+921,Supplier 0921,UAE,4.26,Y
+922,Supplier 0922,United States,4.32,Y
+923,Supplier 0923,Georgia,4.39,Y
+924,Supplier 0924,Poland,4.6,Y
+925,Supplier 0925,United States,4.28,Y
+926,Supplier 0926,Azerbaijan,3.99,Y
+927,Supplier 0927,Germany,4.4,Y
+928,Supplier 0928,France,4.95,Y
+929,Supplier 0929,Italy,4.04,Y
+930,Supplier 0930,Germany,3.66,Y
+931,Supplier 0931,Turkey,4.6,Y
+932,Supplier 0932,UAE,4.05,Y
+933,Supplier 0933,Kazakhstan,3.12,Y
+934,Supplier 0934,United States,4.48,Y
+935,Supplier 0935,Turkey,3.86,Y
+936,Supplier 0936,Germany,4.06,Y
+937,Supplier 0937,Azerbaijan,4.25,Y
+938,Supplier 0938,Georgia,4.19,Y
+939,Supplier 0939,Turkey,4.42,Y
+940,Supplier 0940,France,3.9,Y
+941,Supplier 0941,Germany,4.33,Y
+942,Supplier 0942,France,3.98,Y
+943,Supplier 0943,Italy,4.43,Y
+944,Supplier 0944,UAE,4.38,Y
+945,Supplier 0945,Germany,3.68,Y
+946,Supplier 0946,Azerbaijan,4.59,Y
+947,Supplier 0947,Turkey,3.86,Y
+948,Supplier 0948,Georgia,4.46,Y
+949,Supplier 0949,Georgia,4.27,Y
+950,Supplier 0950,France,4.93,Y
+951,Supplier 0951,France,4.0,Y
+952,Supplier 0952,Italy,3.94,Y
+953,Supplier 0953,Turkey,4.09,Y
+954,Supplier 0954,Georgia,3.96,Y
+955,Supplier 0955,United States,4.46,Y
+956,Supplier 0956,United Kingdom,3.37,Y
+957,Supplier 0957,United States,3.63,Y
+958,Supplier 0958,Azerbaijan,3.62,Y
+959,Supplier 0959,Turkey,4.53,Y
+960,Supplier 0960,Spain,4.87,Y
+961,Supplier 0961,Turkey,4.05,Y
+962,Supplier 0962,France,4.02,Y
+963,Supplier 0963,Germany,4.13,Y
+964,Supplier 0964,United Kingdom,4.62,Y
+965,Supplier 0965,Germany,3.68,Y
+966,Supplier 0966,United Kingdom,4.21,Y
+967,Supplier 0967,Spain,4.54,Y
+968,Supplier 0968,Germany,4.33,Y
+969,Supplier 0969,France,4.19,Y
+970,Supplier 0970,United States,4.55,Y
+971,Supplier 0971,Italy,2.88,Y
+972,Supplier 0972,Kazakhstan,4.41,Y
+973,Supplier 0973,Spain,3.81,Y
+974,Supplier 0974,Germany,3.28,Y
+975,Supplier 0975,Azerbaijan,4.33,Y
+976,Supplier 0976,Germany,4.72,Y
+977,Supplier 0977,France,4.04,Y
+978,Supplier 0978,Azerbaijan,4.53,Y
+979,Supplier 0979,United States,4.83,Y
+980,Supplier 0980,France,4.69,Y
+981,Supplier 0981,United Kingdom,4.84,Y
+982,Supplier 0982,Poland,4.43,Y
+983,Supplier 0983,Turkey,4.13,Y
+984,Supplier 0984,Azerbaijan,3.38,Y
+985,Supplier 0985,Spain,3.99,Y
+986,Supplier 0986,United States,3.72,Y
+987,Supplier 0987,Spain,5.0,Y
+988,Supplier 0988,United States,4.02,Y
+989,Supplier 0989,Germany,4.16,Y
+990,Supplier 0990,UAE,4.35,Y
+991,Supplier 0991,Poland,4.12,Y
+992,Supplier 0992,Spain,4.86,Y
+993,Supplier 0993,Germany,3.82,Y
+994,Supplier 0994,France,4.19,Y
+995,Supplier 0995,United Kingdom,3.77,Y
+996,Supplier 0996,Turkey,3.51,Y
+997,Supplier 0997,Georgia,3.82,Y
+998,Supplier 0998,Turkey,4.08,Y
+999,Supplier 0999,Kazakhstan,3.91,Y
+1000,Supplier 1000,United States,3.79,Y
